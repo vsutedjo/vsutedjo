@@ -5,11 +5,14 @@
 
 ## 🔭 I’m currently working on ...
 ### ...Security engineering stuff. Essentially hacking things so that others don't. 
-> - Contribute to Tsunami scanners, our networks scanners here (for money:D): https://github.com/google/tsunami-security-scanner-plugins 💻
-> - or to SCALIBR, our file system scanner here https://github.com/google/osv-scalibr
+- Contribute to Tsunami scanners, our networks scanners here (for money:D)
+  > https://github.com/google/tsunami-security-scanner-plugins 💻
+- or to SCALIBR, our file system scanner
+  > https://github.com/google/osv-scalibr
 
 ### ... and health tech stuff! 🫀
-> - check out my paper here: https://ieeexplore.ieee.org/abstract/document/9676482
+- check out my paper:
+  > https://ieeexplore.ieee.org/abstract/document/9676482
 </br>
 
 ## 🌱 I’m currently learning ...
@@ -19,8 +22,10 @@
 
 ## 💙 Communities
 If you're in Munich or around this area, I welcome you two my two communities:
-- Developer student club munich, one of the largest tech student communities in Munich nowadays. https://gdsc.community.dev/technical-university-of-munich-munich-germany/
-- med-dev, a new healthtech meetup. Ping me if you're interested to join. https://de.linkedin.com/company/med-dev
+- Developer student club munich, one of the largest tech student communities in Munich nowadays
+  > https://gdsc.community.dev/technical-university-of-munich-munich-germany/
+- med-dev, a new healthtech meetup. Ping me if you're interested to join.
+  > https://de.linkedin.com/company/med-dev
 </br>
 
 
