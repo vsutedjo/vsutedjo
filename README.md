@@ -9,6 +9,8 @@
   > https://github.com/google/tsunami-security-scanner-plugins 💻
 - or to SCALIBR, our file system scanner
   > https://github.com/google/osv-scalibr
+- and a Chromium Vuln Feed
+  > https://github.com/google/chromium-policy-vulnfeed
 
 ### ... and health tech stuff! 🫀
 - check out my paper:
@@ -24,7 +26,7 @@
 If you're in Munich or around this area, I welcome you two my two communities:
 - Developer student club munich, one of the largest tech student communities in Munich nowadays
   > https://gdsc.community.dev/technical-university-of-munich-munich-germany/
-- med-dev, a new healthtech meetup. Ping me if you're interested to join.
+- med-dev.org, a new healthtech meetup. Ping me if you're interested to join.
   > https://de.linkedin.com/company/med-dev
 </br>
 
